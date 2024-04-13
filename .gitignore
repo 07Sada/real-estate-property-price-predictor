@@ -91,3 +91,4 @@ target/
 # virtual environment directory
 venv/
 /data
+/models
